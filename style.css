@@ -95,43 +95,39 @@ section button:hover {
   cursor: pointer;
   background-color: lightgrey;
 }
-.footer-left{
-    float: left;
-    display: flex;
-    gap: 20px;
+.footer-left {
+  float: left;
+  display: flex;
+  gap: 20px;
 }
-.footer-left a{
-    text-decoration: none;
-    color: black;
-   
+.footer-left a {
+  text-decoration: none;
+  color: black;
 }
-.footer-right{
-    float: right;
-    display: flex;
-    gap: 20px;
+.footer-right {
+  float: right;
+  display: flex;
+  gap: 20px;
 }
-.footer-right a{
-    text-decoration: none;
-    color: black;
-   
+.footer-right a {
+  text-decoration: none;
+  color: black;
 }
-footer{
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    padding: 10px;
-    background-color: lightgrey;
-    line-height: 40px;
-    
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px;
+  background-color: lightgrey;
+  line-height: 40px;
 }
-.turkey{
-    padding-bottom: 10px;
+.turkey {
+  padding-bottom: 10px;
 }
-#tr{
-    text-decoration: none;
+#tr {
+  text-decoration: none;
 }
-#search{
-    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.6);
+#search {
+  box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.6);
 }
-
